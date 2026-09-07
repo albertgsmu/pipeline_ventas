@@ -1,0 +1,21 @@
+producto_id,nombre_producto,categoria,precio_unitario
+1,Laptop HP,Computadoras,899.99
+2,Mouse Logitech,Accesorios,29.99
+3,Teclado Mecanico,Accesorios,79.99
+4,Monitor Samsung,Monitores,349.99
+5,Auriculares Sony,Audio,149.99
+6,Webcam HD,Accesorios,59.99
+7,Disco SSD 1TB,Almacenamiento,109.99
+8,Memoria RAM 16GB,Componentes,89.99
+9,Tablet iPad,Tablets,599.99
+10,Smartphone Samsung,Celulares,699.99
+11,Cargador USB-C,Accesorios,19.99
+12,Cable HDMI,Cables,12.99
+13,Impresora Canon,Impresoras,249.99
+14,Router WiFi,Redes,79.99
+15,Parlante Bluetooth,Audio,49.99
+16,Mousepad XL,Accesorios,24.99
+17,Hub USB,Accesorios,34.99
+18,Soporte Laptop,Accesorios,44.99
+19,Lampara LED,Iluminacion,39.99
+20,Silla Ergonomica,Mobiliario,299.99
