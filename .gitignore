@@ -1,0 +1,6 @@
+# Archivo de contraseñas (NUNCA subir a GitHub)
+config.py
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
